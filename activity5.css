@@ -1,0 +1,35 @@
+.header{
+	text-align: center;
+	padding: 3%;
+	background-color: lime;
+}
+.main{
+	text-align: center;
+	padding: 6%;
+	background-color: pink;
+}
+.jump{
+	display: flex;
+}
+.jump1{
+	text-align: center;
+    padding: 7%;
+    width: 71%;
+    background: #16A265;
+}
+.jump2{
+	text-align: center;
+    padding: 7%;
+    width: 21%;
+    background: #5275AD;
+}
+.footer{
+    text-align: center;
+	padding: 3%;
+	background-color: skyblue;
+}
+
+• @media screen and (max-width : 500px){ body{ 
+background : red; 
+} 
+• }
